@@ -1,0 +1,35 @@
+#+title chuggboarder-micro-blog
+
+* Introduction
+The concept here is a low-friction way to write down my thoughts, organized by date.
+
+** entry <2026-01-05 Mon>
+*** goals
+ - maintain my practice using git and emacs even when I don't have the
+   time or energy to craft a complete git commit on one of my other projects.
+ - benefits of blogging as described by [[https://pages.sachachua.com/sharing/blog.html][Sacha Chua]]
+
+*** minor point
+I had a placeholder repo here for a "landing page" without much in it.
+I think my landing page ought to be tied to my professional CV on my
+other account. I turned this into my personal "micro-blog"
+
+*** discussion
+The thing I want to drive here is consistency.
+
+The long and short of it is that I am in my 30s and still dream like a
+college kid.  This is probably a good thing, since you hear people
+talk about having all this motivation in their 20s and then acheiving
+some measure of success but losing the motivation.  I remember being
+younger and feeling overwhelmed with starting a career on nothing.
+How am I supposed to start with anything if I don't have experience? I
+wanted to start a few wrungs up on the ladder.  Now I'm there sort of.
+I'm on a ladder at least, how many wrungs up is subjective. But for
+some reason the ladder isn't worth climbing and there's no easy
+platform to dismount. Then I begin to feel like I've done the wrong
+thing with my life and I need to go back to school or whatever.  This
+is of course absurd. I am just reacting to the normal forces lots of
+people encounter in their life, and I can just develop my own goals
+independent of my career.  I can also develop my career independent of
+my goals.  So it is fitting I maintain this space here to develop
+by broader goals through the practice of writing.
