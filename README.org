@@ -3,8 +3,11 @@
 * Introduction
 The concept here is a low-friction way to write down my thoughts, organized by date.
 
-** entry <2026-01-05 Mon>
-*** goals
+** Starting a blogging practice
+:PROPERTIES:
+  :CREATED: <2026-01-05 Mon>
+  :END:
+*** aims
  - maintain my practice using git and emacs even when I don't have the
    time or energy to craft a complete git commit on one of my other projects.
  - benefits of blogging as described by [[https://pages.sachachua.com/sharing/blog.html][Sacha Chua]]
@@ -29,7 +32,15 @@ some reason the ladder isn't worth climbing and there's no easy
 platform to dismount. Then I begin to feel like I've done the wrong
 thing with my life and I need to go back to school or whatever.  This
 is of course absurd. I am just reacting to the normal forces lots of
-people encounter in their life, and I can just develop my own goals
+people encounter in their life, and I can just develop my own aims
 independent of my career.  I can also develop my career independent of
-my goals.  So it is fitting I maintain this space here to develop
+my goals and other aims.  So it is fitting I maintain this space here to develop
 by broader goals through the practice of writing.
+
+I had this written up using the term "goals" but I changed it to
+"aims".  I want to use this blogging practice to develop the broad
+aims that one doesn't measure precisely enough to tell if you succeed
+or fail. To me right now, aims are tools.  An aim has the goal to
+enrich the product of the time earmarked to it. I want to be careful
+here as to avoid a thing that is all too common: to talk one's self
+out of success.
