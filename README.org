@@ -12,7 +12,7 @@ The concept here is a low-friction way to write down my thoughts, organized by d
    time or energy to craft a complete git commit on one of my other projects.
  - benefits of blogging as described by [[https://pages.sachachua.com/sharing/blog.html][Sacha Chua]]
 
-*** minor point
+*** distilled point
 I had a placeholder repo here for a "landing page" without much in it.
 I think my landing page ought to be tied to my professional CV on my
 other account. I turned this into my personal "micro-blog"
@@ -44,3 +44,36 @@ or fail. To me right now, aims are tools.  An aim has the goal to
 enrich the product of the time earmarked to it. I want to be careful
 here as to avoid a thing that is all too common: to talk one's self
 out of success.
+
+* topics
+:PROPERTIES:
+  :CREATED: <2026-01-05 Mon 19:42>
+  :END:
+
+These are topics that are supposed to fit the stated aims of the
+blog. They are all things I must continue to do for the rest of my
+life, but they are also things I wish to do effectively and masterfully.
+
+** cleaning
+*** wash dishes
+I wash dishes almost every day.
+
+*** fitness
+
+** cooking
+
+** computer work
+
+** yard work
+
+
+* 2026-01-06 work from home
+:PROPERTIES:
+  :CREATED: <2026-01-06 Tue 11:11>
+  :END:
+
+i'm gonna jot down some thoughts and stream it for some reason.
+
+- i moved some rocks earlier.
+- check work email
+
