@@ -64,7 +64,31 @@ I wash dishes almost every day.
 
 ** computer work
 
+<2026-01-10 Sat 22:14>
+I want to learn Guix and scheme to manage my systems and tooling. I
+want to learn p_slides, reveal.js, beamer, or some other declarative
+method to create presentation slides. I think this would be a good way
+to package data analysis findings.  It would be a good thing to
+include in a professional portfolio for data analysis.
+
+I have some practical supply chain analysis projects that I already
+use for work that could greatly benefit from some automation and/or
+some reproducibility practices. There is a cadence of formal daily and
+monthly reports, and there are also ad-hoc inventory analyses that are
+repeated over and over again as required. For both cases it's really
+just SAP data extraction and some spreadsheet style manipulation. I
+really would like to organize these into formal workflows using Emacs
+Org mode tables and code blocks.  I think there is a real opportunity
+to apply scientific computing practices to business domains to aid
+with decision making.
+
 ** yard work
+
+<2026-01-10 Sat 22:19>
+I met with a tree guy today. My fiancee arranged the meeting. We are
+planning to get married in our semi-wooded back yard that slopes down
+toward a creek.  At this point we think this will necessitate the
+removal of at least 1 considerably large oak tree.
 
 
 * 2026-01-06 work from home
@@ -76,4 +100,12 @@ i'm gonna jot down some thoughts and stream it for some reason.
 
 - i moved some rocks earlier.
 - check work email
+- let Olive out
+- start some laundry
+- do a work report
+
+
+later note <2026-01-10 Sat 21:45> -- i did not end up doing the work
+report that day. I did that in the office later in the week.
+
 
